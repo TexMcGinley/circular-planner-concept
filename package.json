@@ -1,0 +1,10 @@
+{
+  "name": "circular-planner-concept",
+  "private": true,
+  "scripts": {
+    "build": "staticrypt src/index.html -d . -t templates/password_template.html --remember 0 --template-title \"Circular Furniture Planner (concept)\" --template-instructions \"Enter the password to view the walkthrough.\" --template-button \"Open\" --template-color-primary \"#3D3D3B\" --template-color-secondary \"#F6F6F6\""
+  },
+  "devDependencies": {
+    "staticrypt": "3.5.4"
+  }
+}

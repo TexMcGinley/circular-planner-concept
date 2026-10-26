@@ -1,0 +1,10 @@
+CLAUDE.md
+CLAUDE.local.md
+.claude/
+notes/
+*.docx
+*.pdf
+.DS_Store
+# unencrypted walkthrough source: never commit (see README)
+src/
+node_modules/
